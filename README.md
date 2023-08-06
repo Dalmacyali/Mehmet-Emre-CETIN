@@ -1,2 +1,2 @@
 # Mehmet-Emre-CETIN
-The research of the relationship between GDPR and Personal Data searching trends 
+I will upload my Kaggle notebooks :)
